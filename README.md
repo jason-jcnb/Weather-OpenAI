@@ -34,19 +34,15 @@ Go to OpenAI and sign up to get your API key.
 In the code, change API_KEY and OPENAI_API_KEY to your own keys.
 
 Usage
-1. Run the script:
-python weather_ai_report.py
-2. The application will launch a GUI with the following input fields:
+1. The application will launch a GUI with the following input fields:
 City name: Enter the name of the city for which you want to check the weather.
 Interval (in minutes): Set the interval for how often you want to check the weather. For example, entering 5 will check the weather every 5 minutes.
-3. Click the "Start Weather Updates" button to begin fetching weather data.
-4. The weather report and AI summary will be displayed in the GUI, and the information will be logged to weather_log.txt.
+2. Click the "Start Weather Updates" button to begin fetching weather data.
+3. The weather report and AI summary will be displayed in the GUI, and the information will be logged to weather_log.txt.
 
 
 Files
 weather_log.txt: This file logs the weather data and AI-generated summaries at regular intervals.
-weather_ai_report.py: The main script that handles weather fetching, AI summarizing, and GUI creation.
-
 
 Example
 Here's how the weather report and AI summary will look in the GUI:
