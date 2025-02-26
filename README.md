@@ -25,8 +25,7 @@ You can install the required dependencies by running: pip install requests opena
 Setup
 
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/weather-ai-report.git
-cd weather-ai-report
+git clone (https://github.com/jason-jcnb/Weather-OpenAI)
 2. Obtain an API key from OpenWeatherMap:
 Go to OpenWeatherMap and create an account to get your API key.
 3. Obtain an API key from OpenAI:
